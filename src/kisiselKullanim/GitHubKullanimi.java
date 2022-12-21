@@ -8,6 +8,14 @@ public class GitHubKullanimi {
 
         System.out.println("ssss");
 
+        System.out.println("Hello world!");
+
+        System.out.println("Zafer abi");
+
+        System.out.println("ssss");
+
+
+
 /*
 yapistirdim ama görünmüyor
 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
