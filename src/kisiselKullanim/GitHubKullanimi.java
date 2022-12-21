@@ -6,5 +6,7 @@ public class GitHubKullanimi {
 
         System.out.println("Zafer abi");
 
+        System.out.println("Said");
+
     }
 }
