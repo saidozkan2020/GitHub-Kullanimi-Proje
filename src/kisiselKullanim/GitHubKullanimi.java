@@ -10,7 +10,7 @@ public class GitHubKullanimi {
 
 /*
 yapistirdim ama görünmüyor
-
+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
  */
         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
     }
