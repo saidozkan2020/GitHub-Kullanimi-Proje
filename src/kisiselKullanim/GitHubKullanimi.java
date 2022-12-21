@@ -14,6 +14,15 @@ public class GitHubKullanimi {
 
         System.out.println("ssss");
 
+        System.out.println("Zafer abi");
+
+        System.out.println("ssss");
+
+        System.out.println("Hello world!");
+
+        System.out.println("Zafer abi");
+
+        System.out.println("ssss");
 
 
 /*
